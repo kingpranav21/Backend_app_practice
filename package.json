@@ -1,0 +1,19 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "a code that is deployable on backend using express and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "fun"
+  ],
+  "author": "Pranav Ahuja",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
